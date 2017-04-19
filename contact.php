@@ -7,7 +7,7 @@ $from = 'IT WORKER <it@domain.com>';
 $sendTo = 'IT WORKER <it@domain.com>';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
-$htmlHeader = '35° 13' 37.5060'' N, 80° 50' 35.2464'' W';
+$htmlHeader = '';
 $htmlFooter = '';
 $okMessage = 'Contact form succesfully submitted. Thank you, I will get back to you soon!';
 
